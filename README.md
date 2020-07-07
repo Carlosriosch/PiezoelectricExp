@@ -1,0 +1,2 @@
+# PiezoelectricExp
+ In this work we studied the behavior of a quartz piezoeletric material submitted to an electrical signal.  We take the data with a lock-in programmed for high sensibility.  Through the modeling of this material by an RLC circuit and the analysis from the data collected using various methods, the resonance and antiresonance frequencies were obtained. (also the merit factor Q and the parameters R, L and C of the equivalent circuit.)
